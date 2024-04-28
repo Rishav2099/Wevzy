@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.red {
+  color: #ff2d2d;
+}
+.redh:hover{
+   
+    background-color: rgba(255, 255, 255, 0.114);
+    padding-left : 8px;
+    padding-right : 8px;
+    border-radius: 3px;
+}
